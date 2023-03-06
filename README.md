@@ -22,4 +22,4 @@ License
 This project is licensed under the MIT License.
 
 Acknowledgments
-Special thanks to @
+Special thanks to Olaniyan Kolade Wisdom @WisdomAyo
